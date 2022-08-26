@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d92ed47e6cb5dac4ba7f4b3d02ae471d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group30
+    100004: head1
+    100006: pCube55
+    100008: pCube60
+    100010: pCylinder10
+    100012: pCylinder5
+    100014: pCylinder6
+    100016: pCylinder7
+    100018: pCylinder8
+    100020: pCylinder9
+    100022: pSphere1
+    100024: pSphere10
+    100026: pSphere2
+    100028: pSphere3
+    100030: pSphere4
+    100032: pSphere6
+    100034: pSphere7
+    100036: pSphere8
+    100038: pSphere9
+    400000: //RootNode
+    400002: group30
+    400004: head1
+    400006: pCube55
+    400008: pCube60
+    400010: pCylinder10
+    400012: pCylinder5
+    400014: pCylinder6
+    400016: pCylinder7
+    400018: pCylinder8
+    400020: pCylinder9
+    400022: pSphere1
+    400024: pSphere10
+    400026: pSphere2
+    400028: pSphere3
+    400030: pSphere4
+    400032: pSphere6
+    400034: pSphere7
+    400036: pSphere8
+    400038: pSphere9
+    2100000: Headbois
+    2300000: head1
+    2300002: pCube55
+    2300004: pCube60
+    2300006: pCylinder10
+    2300008: pCylinder5
+    2300010: pCylinder6
+    2300012: pCylinder7
+    2300014: pCylinder8
+    2300016: pCylinder9
+    2300018: pSphere1
+    2300020: pSphere10
+    2300022: pSphere2
+    2300024: pSphere3
+    2300026: pSphere4
+    2300028: pSphere6
+    2300030: pSphere7
+    2300032: pSphere8
+    2300034: pSphere9
+    3300000: head1
+    3300002: pCube55
+    3300004: pCube60
+    3300006: pCylinder10
+    3300008: pCylinder5
+    3300010: pCylinder6
+    3300012: pCylinder7
+    3300014: pCylinder8
+    3300016: pCylinder9
+    3300018: pSphere1
+    3300020: pSphere10
+    3300022: pSphere2
+    3300024: pSphere3
+    3300026: pSphere4
+    3300028: pSphere6
+    3300030: pSphere7
+    3300032: pSphere8
+    3300034: pSphere9
+    4300000: pSphere9
+    4300002: pSphere10
+    4300004: pCube60
+    4300006: pSphere3
+    4300008: pCube55
+    4300010: pCylinder6
+    4300012: pSphere4
+    4300014: pSphere7
+    4300016: pSphere6
+    4300018: pCylinder10
+    4300020: pCylinder9
+    4300022: pCylinder5
+    4300024: pCylinder8
+    4300026: pCylinder7
+    4300028: pSphere2
+    4300030: pSphere1
+    4300032: pSphere8
+    4300034: head1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headbois
+    second: {fileID: 2100000, guid: 4b92de9e858d4b541a253043c0766b60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
